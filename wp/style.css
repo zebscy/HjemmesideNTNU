@@ -1,0 +1,16 @@
+* {color: LimeGreen;
+font-family: 'Courier New';
+}
+
+ul {
+  padding-left: 80px;
+  align-self: auto;
+}
+
+a {text-decoration: none;}
+
+img.animated-gif{
+  width: 30%;
+  height: auto;
+  padding-left: 50px;
+}
