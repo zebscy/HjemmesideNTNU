@@ -25,3 +25,22 @@ img.animated-gif{
 }
 
 p.ufsb {color: black}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  margin-top: 0.1em;
+  margin-left: 0.4em;
+}
+
+div.forside1 {
+  min-height: 100%;
+  margin-bottom: -5.5em;
+}
+
+div.forside1:after{
+  content: "";
+  display: block;
+}
+
+footer.forside1 {height: 1em}
